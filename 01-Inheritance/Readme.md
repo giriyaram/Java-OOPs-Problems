@@ -2,7 +2,7 @@
 atm pin, and available balance to a customer then customer has to display all the values by using a user defined method
 and then invoke this method under main method by providing dynamic inputs.
 
-**J058.** Create a java application where we have a mobile manufacturing compony which will manufacture respected branded
+**J058.** Create a java application where we have a mobile manufacturing company which will manufacture respected branded
 mobile phone with specifications like ram, rom, camera, processor, operating system, battery and price and this mobile
 is released into wholesale market where the price has to increase by 10% and then from here it is taken to retail market
 where the price has to increase by 10% again from here this mobile phone is purchased by a customer and customer has to
