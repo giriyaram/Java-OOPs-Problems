@@ -1,3 +1,5 @@
+# Inheritance
+
 **J057.** Create a java application where we have a bank it will provide customer details like account number, ifsc code,
 atm pin, and available balance to a customer then customer has to display all the values by using a user defined method
 and then invoke this method under main method by providing dynamic inputs.
