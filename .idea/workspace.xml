@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ce1ee32-af38-4928-9b30-f924b62fadd9" name="Default Changelist" comment="&quot;v1.1&quot;">
-      <change afterPath="$PROJECT_DIR$/01-Inheritance/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="6ce1ee32-af38-4928-9b30-f924b62fadd9" name="Default Changelist" comment="v1.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Inheritance/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/01-Inheritance/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717082404121</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="v1.1">
+      <created>1717088669087</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717088669087</updated>
+    </task>
+    <task id="LOCAL-00008" summary="v1.1">
+      <created>1717088729634</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717088729634</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;v1.1&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;v1.1&quot;" />
+    <MESSAGE value="v1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.1" />
   </component>
 </project>
